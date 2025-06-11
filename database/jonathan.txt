@@ -1,0 +1,124 @@
+proceso primero 3
+instruccion 1
+instruccion 5
+instruccion 1
+e/s
+e/s
+instruccion 5
+instruccion 1
+e/s
+e/s
+e/s
+e/s
+instruccion 1
+instruccion 5
+instruccion 6
+e/s
+e/s
+instruccion 1
+instruccion 6
+fin proceso
+proceso decimo 5
+instruccion 5
+instruccion 1
+instruccion 5
+e/s
+e/s
+fin proceso
+proceso segundo 7
+instruccion 1
+instruccion 2
+instruccion 1
+e/s
+e/s
+fin proceso
+proceso tercero 9
+instruccion 1
+instruccion 2
+instruccion 3
+e/s
+e/s
+instruccion 1
+instruccion 3
+instruccion 4
+instruccion 3
+instruccion 5
+instruccion 6
+fin proceso
+proceso cuarto 1
+instruccion 1
+e/s
+e/s
+instruccion 2
+instruccion 3
+instruccion 4
+e/s
+e/s
+instruccion 5
+instruccion 7
+instruccion 6
+instruccion 8
+fin proceso
+proceso quinto 2
+instruccion 1
+e/s
+e/s
+instruccion 5
+instruccion 1
+instruccion 4
+e/s
+e/s
+instruccion 1
+instruccion 6
+fin proceso
+proceso sexto 4
+instruccion 2
+instruccion 1
+instruccion 2
+e/s
+e/s
+instruccion 1
+instruccion 2
+instruccion 3
+instruccion 1
+instruccion 3
+instruccion 4
+instruccion 5
+e/s
+e/s
+instruccion 6
+fin proceso
+proceso septimo 6
+instruccion 5
+e/s
+e/s
+instruccion 6
+instruccion 1
+fin proceso
+proceso octavo 0
+instruccion 1
+instruccion 2
+e/s
+e/s
+instruccion 3
+instruccion 1
+instruccion 2
+instruccion 3
+fin proceso
+proceso noveno 8
+instruccion 5
+instruccion 6
+instruccion 4
+e/s
+e/s
+instruccion 7
+e/s
+e/s
+instruccion 7
+instruccion 8
+instruccion 9
+e/s
+e/s
+instruccion 10
+instruccion 12
+fin proceso

@@ -1,0 +1,141 @@
+proceso nombre1 4
+instruccion 1
+instruccion 2
+instruccion 1
+e/s
+e/s
+instruccion 2
+instruccion 3
+instruccion 4
+fin proceso
+proceso nombre2 7
+instruccion 5
+instruccion 1
+instruccion 5
+e/s
+e/s
+instruccion 1
+instruccion 5
+e/s
+e/s
+instruccion 6
+instruccion 7
+instruccion 8
+fin proceso
+proceso nombre3 5
+instruccion 1
+instruccion 2
+instruccion 3
+e/s
+e/s
+instruccion 5
+instruccion 1
+e/s
+e/s
+instruccion 5
+e/s
+e/s
+instruccion 2
+instruccion 5
+instruccion 3
+fin proceso
+proceso nombre4 8
+instruccion 1
+instruccion 2
+instruccion 1
+e/s
+e/s
+instruccion 2
+instruccion 3
+instruccion 4
+fin proceso
+proceso nombre5 1
+instruccion 5
+instruccion 1
+instruccion 5
+e/s
+e/s
+e/s
+e/s
+instruccion 6
+instruccion 7
+instruccion 8
+fin proceso
+proceso nombre6 2
+instruccion 1
+instruccion 2
+instruccion 3
+e/s
+e/s
+instruccion 5
+instruccion 1
+e/s
+e/s
+instruccion 5
+instruccion 6
+instruccion 4
+e/s
+e/s
+instruccion 2
+instruccion 5
+instruccion 3
+fin proceso
+proceso nombre7 6
+instruccion 1
+instruccion 2
+instruccion 1
+e/s
+e/s
+instruccion 2
+instruccion 3
+instruccion 4
+fin proceso
+proceso nombre8 0
+instruccion 5
+instruccion 1
+instruccion 5
+e/s
+e/s
+instruccion 1
+instruccion 5
+instruccion 1
+e/s
+e/s
+instruccion 6
+instruccion 7
+instruccion 8
+fin proceso
+proceso nombre9 3
+instruccion 1
+instruccion 2
+instruccion 3
+e/s
+e/s
+instruccion 5
+instruccion 1
+e/s
+e/s
+instruccion 5
+e/s
+e/s
+instruccion 2
+instruccion 5
+instruccion 3
+fin proceso
+proceso nombre10 9
+instruccion 1
+instruccion 2
+instruccion 3
+e/s
+e/s
+instruccion 5
+instruccion 1
+e/s
+e/s
+instruccion 5
+e/s
+e/s
+instruccion 2
+instruccion 5
+instruccion 3
+fin proceso
